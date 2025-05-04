@@ -1,10 +1,10 @@
 {
-    "version": "51.11",
+    "version": "2.4.3",
     "license": "Freeware",
     "homepage": "https://openfortress.fun/",
     "description": "Open Fortress is a free, community-developed Team Fortress 2 mod that introduces new gamemodes, characters, weapons, maps and more to the world of TF2. Over 100 community contributors have combined their creativity and innovation with the iconic mid-century aesthetic of TF2 and the gameplay features of classic arena shooters, delivering a truly unique spin on one of the most popular multiplayer games of all time.",
     "url": "https://beans.adastral.net/beans.exe",
-    "hash": "1148683c2c160c34d6e9cf603ef7a136a67028b27ae786ea3a4a3774b50e9ba0",
+    "hash": "497b87172e4296d0b2446c334c26261b8b902cd8cba8383e0d171d0e4cdcae72",
     "checkver": {
         "script": [
             "$url = \"https://beans.adastral.net/versions.json\"",
