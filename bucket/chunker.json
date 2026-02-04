@@ -1,13 +1,13 @@
 {
-    "version": "1.14.0",
+    "version": "1.15.0",
     "description": "Convert Minecraft worlds between Java Edition and Bedrock Edition",
     "homepage": "https://github.com/HiveGamesOSS/Chunker",
     "license": "MIT",
-    "url": "https://github.com/HiveGamesOSS/Chunker/releases/download/1.14.0/Chunker-1.14.0-windows-x86.exe",
-    "hash": "6e3e3fdb9bae5f34758206236742102fb7517a894e9617f8f2eb6548daff7308",
+    "url": "https://github.com/HiveGamesOSS/Chunker/releases/download/1.15.0/Chunker-1.15.0-windows-x86.exe",
+    "hash": "1eb27c43c1195bbe48407840baa20a6e17f4f88e61a1adff74ffdf6514194a2e",
     "shortcuts": [
         [
-            "Chunker-1.14.0-windows-x86.exe",
+            "Chunker-1.15.0-windows-x86.exe",
             "Chunker"
         ]
     ],
